@@ -19,6 +19,12 @@ ASReview is an AI active learning system that uses the titles and abstracts of r
 
 5. _generated_data_: This folder contains all of the state files generated from the simulations. 
 
+## Study Details
+
+### Methods
+
+### Results
+
 ### Requirements
 The simulations were run on Google Colab Pro, using a high-RAM GPU to speed up the run-time of the simulations (Colab Pro can reach ~25 GB of RAM) using the ASReview Python API and command line interface. This study used ASReview version 0.19.3, but please note that the latest release of the ASReview software is version 1.0. It is recommended to have Python version 3.7 or higher. The implementation of the transformer models requires the intallation of the sentence-transformers library from Hugging Face (found at: https://huggingface.co/sentence-transformers)
 
