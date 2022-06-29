@@ -80,7 +80,7 @@ The recall plot of bottom five (the worst performance) models (based on WSS@95) 
 
 The RRF@10 scores of the bottom five models show more variation than the top five models. For all RRF values (RRF@1, RRF@5, etc.) the MPNET model performs better than RoBERTa-base, and RoBERTa-base combined with the NN2 classifier tends to have the lowest RRF values. The RRF plot of bottom five models (for RRF@1, RRF@2, RRF@5, RRF@10, RRF@20, and RRF@50) is:
 
-<img width="481" alt="Screen Shot 2022-06-29 at 3 34 15 PM" src="https://user-images.githubusercontent.com/49207961/176449456-6026a502-e2ad-4ea8-9fed-7d3d7dc29dbe.png">
+<img width="410" alt="Screen Shot 2022-06-29 at 3 34 15 PM" src="https://user-images.githubusercontent.com/49207961/176449456-6026a502-e2ad-4ea8-9fed-7d3d7dc29dbe.png">
 
 Further results and visualizations can be found in the files. 
 
