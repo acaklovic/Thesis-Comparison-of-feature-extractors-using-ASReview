@@ -6,7 +6,7 @@ The purpose of the study was examine if state-of-the-art feature extractors (i.e
 
 ASReview is an AI active learning system that uses the titles and abstracts of research papers to classify a set of papers as relevant or irrelevant for the researcher (van de Schoot et al., 2021). More information on ASReview can be found at: https://github.com/asreview
 
-### Files
+## Files
 1. _dataset_: Contains the data used in the study, the ASReview benchmark dataset about PTSD Trajectories dataset by Van de Schoot et al. The dataset can also be found at: https://github.com/asreview/systematic-review-datasets/tree/master/datasets/van_de_Schoot_2017
 
 2. _code_: The code containing the preparation for the simulations and the simulation scripts themselves. 
@@ -25,10 +25,10 @@ ASReview is an AI active learning system that uses the titles and abstracts of r
 
 ### Results
 
-### Requirements
+## Requirements
 The simulations were run on Google Colab Pro, using a high-RAM GPU to speed up the run-time of the simulations (Colab Pro can reach ~25 GB of RAM) using the ASReview Python API and command line interface. This study used ASReview version 0.19.3, but please note that the latest release of the ASReview software is version 1.0. It is recommended to have Python version 3.7 or higher. The implementation of the transformer models requires the intallation of the sentence-transformers library from Hugging Face (found at: https://huggingface.co/sentence-transformers)
 
-### References
+## References
 
 ASReview. (2022). API reference. ASReview LAB: Active learning for Systematic Reviews. Retrieved June 21, 2022, from https://asreview.readthedocs.io/en/latest/reference.html 
 
