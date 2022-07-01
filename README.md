@@ -13,8 +13,6 @@ ASReview is an AI active learning system that uses the titles and abstracts of r
 
 3. _visualizations_: The code for the visualizations. The main visualizations used in the study were recall plots based on WSS (Work Saved Over Sampling) and RRF (Relevant Records Found). Further information about the ASReview libraries for the metrics and visualizations in this study can be found at: https://github.com/asreview and https://asreview.readthedocs.io/en/latest/
 
-5. _generated_data_: This folder contains all of the state files generated from the simulations. 
-
 ## Study Details
 
 The classifiers used in this study (along with their implementations in ASReview) are as follows: 
