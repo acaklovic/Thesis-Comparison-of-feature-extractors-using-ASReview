@@ -35,7 +35,7 @@ The sentence transformers are:
 
 The transformers were extracted from the Hugging Face sentence-transformers library (Hugging Face, n.d.) and implemented using the ASReview code for SBERT (ASReview., 2022). All-mpnet-base-v2 is the current default sentence transformer used by ASReview.
 
-A total of 25 combinations and simulations were run.
+A total of 25 combinations/simulations were run.
 
 _Performance Metrics:_
 
