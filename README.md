@@ -6,6 +6,8 @@ The purpose of the study was examine if state-of-the-art feature extractors (i.e
 
 ASReview is an AI active learning system that uses the titles and abstracts of research papers to classify a set of papers as relevant or irrelevant for the researcher (van de Schoot et al., 2021). More information on ASReview can be found at: https://github.com/asreview
 
+Full thesis can be found at: https://studenttheses.uu.nl/handle/20.500.12932/42409
+
 ## Files
 1. _dataset_: Contains the data used in the study, the ASReview benchmark dataset about PTSD Trajectories dataset by Van de Schoot et al. The dataset can also be found at: https://github.com/asreview/systematic-review-datasets/tree/master/datasets/van_de_Schoot_2017
 
